@@ -3,6 +3,7 @@
 - When you click the Go > B button on page A, it goes to page B.
 - When you click the Go > Y button on page B, it goes to page Y.
 - When you click the Go > Y button on page X, it goes to page Y.
+- When you click the go back button on page Y, it returns homepage.
 
 ## Screenshots of Project
 
