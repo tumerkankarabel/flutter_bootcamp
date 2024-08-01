@@ -1,16 +1,15 @@
-# sahibinden_app_ui_design
+# Sahibinden App Ui Design
+The listing ui of the sahibinden application, one of the popular applications, has been designed.
 
-A new Flutter project.
+## Screenshots of Project
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/d7f2697e-5da3-44db-a88a-5fe068f11fed" alt="Image 1" width="200"/></td>
+    <td><img src="https://github.com/user-attachments/assets/7a6fc602-8ce2-4227-9cae-198cff93ada2" alt="Image 2" width="200"/></td>
+  </tr>
+  <tr>
+    <td style="text-align:center;">Sahibinden App Homescreen </td>
+    <td style="text-align:center;">Sahibinden App Homescreen2</td>
+  </tr>
+</table>
