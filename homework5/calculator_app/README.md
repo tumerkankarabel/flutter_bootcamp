@@ -13,7 +13,7 @@
     <td><img src="https://github.com/user-attachments/assets/b85a218e-f00c-47f1-ae3e-761d15e600f4" alt="Image 1" width="200"/></td>
   </tr>
   <tr>
-    <td style="text-align:center;">Home Screen (Turkish) </td>
+    <td style="text-align:center;">Calculator App Homepage </td>
   </tr>
 </table>
 
